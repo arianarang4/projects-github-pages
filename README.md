@@ -7,7 +7,7 @@
   - Methods include spatial autocorrelation analysis, demographic clustering, and advanced GIS mapping techniques
 
 ## Healthcare Data Science Research 
-- [Understanding Trans Lives in America: A Focus on Trans Youth Healthcare](Understanding%20Trans%20Lives%20in%20America_%20A%20Focus%20on%20Trans%20Youth%20Healthcare.pdf)
+- [Understanding Trans Lives in America: A Focus on Trans Youth Healthcare][Understanding Trans Lives in America: A Focus on Trans Youth Healthcare](Understanding%20Trans%20Lives%20in%20America_%20A%20Focus%20on%20Trans%20Youth%20Healthcare%20(9).pdf)
  - Conducted comprehensive public health data analysis using Tableau to create interactive visualizations of transgender healthcare access patterns across the United States
  - Performed extensive data cleaning and integration of multiple datasets, including state-level policy data, demographic information, and healthcare statistics
  - Created advanced data visualizations including geospatial mapping of trans youth populations, policy restriction analysis, and trend analysis of healthcare procedures
