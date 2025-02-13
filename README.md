@@ -26,6 +26,8 @@ Key components:
 - Comprehensive evaluation metrics
 
 ## Racial Disparities in Income and Poverty in America
+- [Full Research Paper](Racial%20Disparities%20in%20Income%20and%20Poverty.pdf)
+- [Analysis Code](Python%20Code%20for%20Racial%20Disparities%20Paper.py)
 Statistical analysis of socioeconomic factors affecting racial disparities in the United States, using:
 - Regression analysis to examine relationships between income and poverty
 - Chi-square tests to analyze education and race correlations
