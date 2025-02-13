@@ -25,3 +25,16 @@ Key components:
 - Training data extraction and preprocessing
 - Comprehensive evaluation metrics
 
+## Racial Disparities in Income and Poverty in America
+Statistical analysis of socioeconomic factors affecting racial disparities in the United States, using:
+- Regression analysis to examine relationships between income and poverty
+- Chi-square tests to analyze education and race correlations
+- Data visualization with matplotlib and seaborn
+- Advanced statistical methods including t-tests and confidence intervals
+- NHANES dataset analysis from 2009-2013
+
+**Key Findings:**
+- Significant correlation between median household income and poverty levels
+- Statistical evidence of educational attainment disparities
+- Comprehensive analysis of racial economic gaps post-2007 recession
+
