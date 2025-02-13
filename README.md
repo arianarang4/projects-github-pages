@@ -18,7 +18,7 @@
 Natural language parsing implementation using neural networks in Python.
 - Implemented a neural dependency parser for syntactic analysis
 - Built decoder and evaluation pipeline for CoNLL format data
-- [View Project](https://github.com/arianarang4/neural-dependency-parser)
+- [View Code](https://github.com/arianarang4/neural-dependency-parser)
 
 Key components:
 - Custom neural architecture for dependency parsing
